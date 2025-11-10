@@ -1,4 +1,4 @@
-# Lab 7 PHP Dasar — Form Data Diri dan Pekerjaan
+# Lab 7 PHP Dasar Form Data Diri dan Pekerjaan
 
 Proyek ini berisi contoh aplikasi web sederhana menggunakan PHP yang menampilkan form input data diri, menghitung umur dari tanggal lahir, serta menentukan estimasi gaji berdasarkan pilihan pekerjaan.
 
