@@ -1,10 +1,10 @@
-# Lab 7 PHP Dasar Form Data Diri dan Pekerjaan
 # Nama : Fitri Ramadhani
 # NIM : 312410085
 # Kelas : TI.24.A.1
 # Mata Kuliah : Pemrograman Web 1
 # Dosen Pengampu : Agung Nugroho, S.Kom., M.Kom.
 
+# Lab 7 PHP Dasar Form Data Diri dan Pekerjaan
 Proyek ini berisi contoh aplikasi web sederhana menggunakan PHP yang menampilkan form input data diri, menghitung umur dari tanggal lahir, serta menentukan estimasi gaji berdasarkan pilihan pekerjaan.
 
 ## Fitur
