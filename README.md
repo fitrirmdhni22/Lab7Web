@@ -50,6 +50,3 @@ Proyek ini berisi contoh aplikasi web sederhana menggunakan PHP yang menampilkan
 - Contoh ini fokus pada konsep dasar. Untuk produksi:
   - Sanitasi dan validasi input lebih ketat (hindari XSS/Injection).
   - Pertimbangkan CSRF token untuk form.
-
-## Lisensi
-Proyek ini untuk keperluan pembelajaran. Gunakan bebas sesuai kebutuhan Anda.
