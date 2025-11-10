@@ -1,4 +1,9 @@
 # Lab 7 PHP Dasar Form Data Diri dan Pekerjaan
+# Nama : Fitri Ramadhani
+# NIM : 312410085
+# Kelas : TI.24.A.1
+# Mata Kuliah : Pemrograman Web 1
+# Dosen Pengampu : Agung Nugroho, S.Kom., M.Kom.
 
 Proyek ini berisi contoh aplikasi web sederhana menggunakan PHP yang menampilkan form input data diri, menghitung umur dari tanggal lahir, serta menentukan estimasi gaji berdasarkan pilihan pekerjaan.
 
@@ -50,3 +55,6 @@ Proyek ini berisi contoh aplikasi web sederhana menggunakan PHP yang menampilkan
 - Contoh ini fokus pada konsep dasar. Untuk produksi:
   - Sanitasi dan validasi input lebih ketat (hindari XSS/Injection).
   - Pertimbangkan CSRF token untuk form.
+
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/888a1c77-615b-423a-8ae0-650a528b9347" />
+ 
